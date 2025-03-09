@@ -43,8 +43,6 @@ This project focuses on implementing **Thin Airfoil Theory** through a computati
 - **Circulation Computation** via different methods yields consistent results.
 - **Vector Field Visualization** enhances understanding of airflow patterns.
 
-- Guide: **Prof. Dhwanil Shukla**
-
 ## License
 This project is open-source and available under the **MIT License**.
 
